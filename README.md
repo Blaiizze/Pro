@@ -1,4 +1,4 @@
-# Repository Pro
+# :pencil2: Repository Pro :pencil2:
 
 **Hello,**
 
@@ -17,7 +17,7 @@ Vous pouvez aussi prendre contacte avec moi.
 - [GDK-350MS - Projet fait en formation](http://gdk-350ms.herokuapp.com/)
 - [Exodata - Projet fait en formation](http://exodata.herokuapp.com)
 
-## Me contacter 
+## :email: Me contacter 
 
 - Mail : <reboul.blaise@gmail.com>
 - Linkedin : [linkedin.com/in/blaise-re](https://www.linkedin.com/in/blaise-re/)
