@@ -1,4 +1,4 @@
-# :pencil2: Repository Pro :pencil2:
+# Repository Pro :heavy_check_mark:
 
 **Hello,**
 
