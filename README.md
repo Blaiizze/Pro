@@ -2,9 +2,7 @@
 
 **Hello,**
 
-Ce repo regroupe tout les projets que j'ai pu réaliser.
-
-Vous pouvez aussi prendre contacte avec moi.
+Ce repo regroupe tout les projets que j'ai pu réaliser. Vous pouvez aussi prendre contacte avec moi. 
 
 À plus tard :grin:
 
