@@ -8,11 +8,11 @@ Vous pouvez aussi prendre contacte avec moi.
 
 À plus tard :grin:
 
-## Application Web
-### Profesionnels :
+## :computer: Application Web
+### :briefcase: Profesionnels :
 - [Adrie-Collecte - Application de collecte de matériel](http://adrie-collecte.herokuapp.com/)
 
-### Divers (*Perso/Formation/Autres...*) :
+### :mortar_board: Divers (*Perso/Formation/Autres...*) :
 - [Humans-United - Webcup 2019](http://humans-united.herokuapp.com/)
 - [GDK-350MS - Projet fait en formation](http://gdk-350ms.herokuapp.com/)
 - [Exodata - Projet fait en formation](http://exodata.herokuapp.com)
